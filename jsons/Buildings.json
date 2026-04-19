@@ -8,12 +8,12 @@
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
 		    "Unbuildable <for [AI player]>",
-		    "[50]% [Science] [in all cities] <for [Human player]>",
+		    "[100]% [Science] [in all cities] <for [Human player]>",
 		    "[50]% [Culture] [in all cities] <for [Human player]>",
-		    "[50]% [Food] [in all cities] <for [Human player]>",
-                    "[50]% [Production] [in all cities] <for [Human player]>",
+		    "[200]% [Food] [in all cities] <for [Human player]>",
+                    "[200]% [Production] [in all cities] <for [Human player]>",
                     "[50]% [Faith] [in all cities] <for [Human player]>",
-	            "[50]% [Gold] [in all cities] <for [Human player]>",
-		    "[50]% [Happiness] [in all cities] <for [Human player]>"]
+	            "[100]% [Gold] [in all cities] <for [Human player]>",
+		    "[100]% [Happiness] [in all cities] <for [Human player]>"]
 	},
 ]
